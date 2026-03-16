@@ -1,0 +1,13 @@
+Injury Type (Category),Likelihood (Weight %),Expected Return (Median Days)
+Hamstring Strain (Structural),17%,13 - 17 Days
+Ankle Ligament Sprain,15%,13 - 15 Days
+Contusions (Bruises/Knocks),20%,2 - 4 Days
+Groin/Adductor Strain,10%,11 - 18 Days
+Quadriceps Strain,7%,12 - 14 Days
+Calf Muscle Strain,6%,18 - 19 Days
+Knee Medial Ligament (MCL),5%,21 - 28 Days
+Concussion,3%,7 - 9 Days
+Meniscus/Cartilage Damage,2%,50 - 80 Days
+Fractures (Lower Limb),2%,60 - 90 Days
+Anterior Cruciate Ligament (ACL),1%,250 - 330 Days
+Other (Overuse/Illness/Unknown),12%,3 - 7 Days
