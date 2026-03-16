@@ -10,15 +10,21 @@ To find the probability that Barcelona wins the Champions League, there are a mi
 
 Given the immense "noise" in football data, this engine focuses on four high-leverage "stories": 
     Player Availability: The health of the squad as the foundation of strength.
+    
     The "Big Three" Momentum: Detailed form conditioning for the giants of Spanish football (FC Barcelona, Real Madrid, and Atlético Madrid).
+    
     Title-Clinch Dynamics: How winning La Liga alters the probability space for the European bracket.
+    
     UCL Knockout Progression: Modeling the sequential conditional probability of advancing through the Quarter-finals and Semi-finals.
 
 🎲 The Distribution ToolkitI have implemented a suite of distributions to model specific footballing phenomena: 
       Bernoulli: Daily injury "failure" checks.Weibull: Realistic recovery timelines for injured players.Uniform: Randomizing draw dates and minor atmospheric variables.
       Multinomial: Successive sampling for matchday lineups and categorical results.
+      
       Dirichlet: Modeling the "Match-Day Chaos" and volatility of the result density.
+      
       Poisson: Bridging categorical wins to discrete goal counts for aggregate tie-breakers.
+      
       Uniform: for sampling a given distribiton 
 
 
